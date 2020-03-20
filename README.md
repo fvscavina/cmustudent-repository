@@ -2,6 +2,10 @@
 
 
 ## Python
+- Text Adventure Game Development - Patriots Superbowl Experience
+  - Text-based game development utilizing Strings, User-Defined Functions, Variables, Conditional and Nested Conditional Statements (if/elif/else), Loops and Controlling for Errors
+      - https://github.com/fvscavina/cmustudent-repository/blob/master/Patriots%20Superbowl%20Experience.ipynb
+
 - Data Analysis and Visualisation
   - Cars Dataset Analysis and Visualization 
     - https://github.com/fvscavina/cmustudent-repository/blob/master/Cars%20Dataset%20Analysis%20and%20Visualization.ipynb
