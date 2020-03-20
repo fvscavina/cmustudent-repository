@@ -16,5 +16,5 @@ R
     - http://rpubs.com/fvscavina/560907
 
 - Text Analytics
-  - Analysis of text data from Fox News and CNN, regarding the Democrats primary elections, using correlograms and sentiment analysis,      reporting the different approaches of the two press channels.
+  - Analysis of text data from Fox News and CNN, regarding the Democrats primary elections, using correlograms and sentiment analysis,      reporting the different approaches of the two press channels
     - https://github.com/fvscavina/cmustudent-repository/blob/master/Media%20Coverage%20Insight%20Report.pdf
