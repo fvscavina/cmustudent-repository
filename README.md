@@ -18,3 +18,12 @@ R
 - Text Analytics
   - Analysis of text data from Fox News and CNN, regarding the Democrats primary elections, using correlograms and sentiment analysis,      reporting the different approaches of the two press channels
     - https://github.com/fvscavina/cmustudent-repository/blob/master/Media%20Coverage%20Insight%20Report.pdf
+    
+SQL
+- Data Camp Certificate
+  - Introduction to SQL
+    - https://github.com/fvscavina/cmustudent-repository/blob/master/Introduction%20to%20SQL.pdf
+  - Joining Data in SQL
+    - https://github.com/fvscavina/cmustudent-repository/blob/master/Joining%20Data%20in%20SQL.pdf
+  - Intermediate SQL
+    - https://github.com/fvscavina/cmustudent-repository/blob/master/Intermediate%20SQL.pdf
