@@ -12,7 +12,7 @@
       
 ## R
 - Data Analysis and Visualisation
-  - Titanic Dataset Analysis
+  - Predictive analysis utilizing logistic regression and decision tree to identify the probability of each Titanic passenger to have died during the accident
     - http://rpubs.com/fvscavina/560907
 
 - Text Analytics
