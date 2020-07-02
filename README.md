@@ -16,7 +16,7 @@
 
 ## Excel
 - Pivot Table Dashboard
- - Sales Analysis 
+  - Sales Analysis 
     - https://github.com/fvscavina/cmustudent-repository/blob/master/Sales%20Analysis%20-%20Pivot%20Table%20Dashboard.xlsx
       
 ## R
