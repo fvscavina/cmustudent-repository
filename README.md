@@ -13,6 +13,11 @@
 - Machine Learning
   - Predictive model using Logistic Regression and KNN, providing insights regarding to customers behavior to a food delivery app
     - https://github.com/fvscavina/cmustudent-repository/blob/master/Apprentice%20Chef%2C%20Inc.%20Predictive%20Analysis.ipynb
+
+## Excel
+- Pivot Table Dashboard
+ - Sales Analysis 
+    - https://github.com/fvscavina/cmustudent-repository/blob/master/Sales%20Analysis%20-%20Pivot%20Table%20Dashboard.xlsx
       
 ## R
 - Data Analysis and Visualisation
